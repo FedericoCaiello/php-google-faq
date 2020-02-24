@@ -1,7 +1,29 @@
-body {
-  background-color: grey;
-}
+
 p {
-  color: white;
+  color: grey;
   font-size: 22px;
+  padding: 10px;
+}
+h3 {
+  padding: 10px;
+}
+ul {
+  height: 40px;
+  line-height: 20px;
+}
+ul li {
+  list-style: none;
+  padding: 10px;
+  display: inline-block;
+  line-height: 100px;
+  color: grey;
+  font-size: 18px;
+  font-weight: bold;
+}
+nav {
+  height: 90px;
+  border-bottom: 1px solid grey;
+}
+.question {
+  color: #0069ff;
 }

@@ -40,6 +40,15 @@ Scopri quali misure adottiamo per garantire protezione e sicurezza alle tue info
      <title></title>
    </head>
    <body>
+     <nav>
+       <ul>
+         <li>Introduzione</li>
+         <li>Norme sulla privacy</li>
+         <li>Termini di servizio</li>
+         <li>Tecnologie</li>
+         <li class="question">Domande frequenti</li>
+       </ul>
+     </nav>
      <?php foreach ($db as $faq) { ?>
       <?php echo $faq['domanda']. ' ' . $faq['risposta'] ?>
      <?php } ?>
