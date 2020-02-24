@@ -36,7 +36,7 @@ Scopri quali misure adottiamo per garantire protezione e sicurezza alle tue info
  <html lang="en" dir="ltr">
    <head>
      <meta charset="utf-8">
-     <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="style.css">
      <title></title>
    </head>
    <body>
